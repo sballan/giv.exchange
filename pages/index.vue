@@ -1,6 +1,10 @@
 <template>
   <section class="section">
     <div class="columns is-mobile">
+      <p>
+        We're Live!
+      </p>
+
       <card
         title="Free"
         icon="github"
