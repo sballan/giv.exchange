@@ -1,6 +1,6 @@
 
 # Governance, Investment, and Voting Exchange
-
+The original proposal can be found [here](original-proposal.md)
 ## Overview
 The GIV Exchange allows users to wield the power of a shared treasury in proportion to the amount of money they are willing to stake.
 
