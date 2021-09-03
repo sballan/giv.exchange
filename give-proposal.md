@@ -79,6 +79,6 @@ Uniswap v3 Core. UNISWAP PROTOCOL. https://uniswap.org/whitepaper-v3.pdf
 of a Liquidity Provider. SSRN Electronic Journal. Published.
 https://doi.org/10.2139/ssrn.3872531
 4. CoinMarketCap. (n.d.). Cryptocurrency Prices, Charts And Market Capitalizations. Retrieved August 24, 2021, from https://coinmarketcap.com/
-5. The Maker Protocol White Paper. (2020, February). MakerDAO | An Unbiased Global Financial System. https://makerdao.com/en/whitepaper/
+5. The Maker Protocol White Paper. (2020, February). MakerDAO An Unbiased Global Financial System. https://makerdao.com/en/whitepaper/
 6. Moin, A. (2019, September 18). A Classification Framework for Stablecoin Designs. ArXiv.Org. https://arxiv.org/abs/1910.10098
 
