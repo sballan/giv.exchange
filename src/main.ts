@@ -57,4 +57,9 @@ app.innerHTML = `
 <h4>Speculation</h4>
 
 <p>What would this liquidity look like? Well, at first - there would be lots of price movements. We wouldn't have very much liquidity at first. But because of our funny economy that relies on the GIV token, the sharp price movements will also happen for the GIV token pools. In some cases, this will mean that some asset token is made available for a very cheap price in terms of GIV tokens. Some other asset will be very expensive in terms of GIV tokens. There will be an opportunity therefore to trade those tokens for each other to make a profit. Each time there is a price movement, there is a profit making opportunity for someone else - namely the Exchange itself (and any stakers get a cut).</p>
+
+
+<br>
+<br>
+<i>Copyright 2021 Samuel Ballan</i>
 `
