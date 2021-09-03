@@ -82,3 +82,6 @@ https://doi.org/10.2139/ssrn.3872531
 5. The Maker Protocol White Paper. (2020, February). MakerDAO An Unbiased Global Financial System. https://makerdao.com/en/whitepaper/
 6. Moin, A. (2019, September 18). A Classification Framework for Stablecoin Designs. ArXiv.Org. https://arxiv.org/abs/1910.10098
 
+---
+_© Samuel Ballan 2021_
+
