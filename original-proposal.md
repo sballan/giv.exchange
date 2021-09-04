@@ -16,7 +16,7 @@ As the price moves further from the market price, the pool suffers greater amoun
 
 Uniswap v3 took significant steps to reduce the amount of impermanent loss [3]. First and foremost, instead of a single liquidity pool, the price range for the tokens is divided into liquidity positions [2]. Each position can be thought of as its own bounded pool, which only provides liquidity in limited price ranges. The quantity of tokens that can be swapped at a given price is increased by having many liquidity positions, and liquidity providers are incentivised to close positions that fall outside the current market price [2]. This means that liquidity providers that would have suffered great impermanent losses have their tokens untouched, and are encouraged to close their current position and open one closer to the market price [2]. In the following diagram from Aigner and Dhaliwal (2021), we see how a divided liquidity pool can provide maximal liquidity at a strategic point, instead of uniform liquidity across the entire price range [3].
 
-![Liquidity Function of Uniswap v2](/assets/uniswap_simple_pool.png)
+![Liquidity Function of Uniswap v2](/assets/uniswap_v2.png)
 
 The implementation of these divided pools is rather complex, and requires the price movements of the tokens to be calculated across each possible liquidity position, which amounts to doing a calculation for every basis point of movement [3]. Even so, there is no way to completely avoid impermanent loss, which is the reason Uniswap shares its transaction fees with its liquidity providers [1,2]. As can be seen in the following diagram from Aigner and Dhaliwal (2021), even a tightly bounded liquidity position can suffer significant losses in the worst cases [3].
 
