@@ -1,4 +1,5 @@
 # GIV Exchange: what and why 
+_The original proposal can be found [here](original-proposal.md)_
 ## Basic Motivation
 At its core, GIV Exchange is an investment portfolio that is controlled by holders of the GIV token.   While the principle investments are never removed from the portfolio, the interest accrued by the investments is sold off and used according to the wishes of GIV holders.  The primary concern of GIV holders is therefore the growth of the investment portfolio and the distribution of the interest.
 ## Growing the Investments Portfolio
